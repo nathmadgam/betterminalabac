@@ -1,0 +1,25 @@
+# legislative Department Pages
+# This file contains all the pages/governments/departments/legislative available under the Department
+#
+layout: grid
+title: 'Sangguniang Bayan of Minalabac'
+description: 'Members of the Sangguniang Bayan (Municipal Council) for the 2025 to 2028 term. Source: Wikipedia.'
+pages:
+  - name: 'Noe G. Lavandero'
+    description: 'Vice Mayor and Presiding Officer'
+  - name: 'Rolito U. Orosco'
+    description: 'Councilor'
+  - name: 'Renato A. Barcinas'
+    description: 'Councilor'
+  - name: 'Peddy B. Benamira'
+    description: 'Councilor'
+  - name: 'Miguel S. Bersabe'
+    description: 'Councilor'
+  - name: 'Nilo N. Cadores'
+    description: 'Councilor'
+  - name: 'Edilberto C. Platon Jr.'
+    description: 'Councilor'
+  - name: 'Crisanto P. Bersabe'
+    description: 'Councilor'
+  - name: 'Lea B. Betito'
+    description: 'Councilor'
